@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hola soy Alejandro
 
 ![Mis habilidades](https://github.com/agarciacor/agarciacor/blob/main/MisHabilidades.gif?raw=true)
 
 <div>
 </div>
 
-##Acerca de mi
+## Acerca de mi
 
 ```js
 
