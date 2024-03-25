@@ -1,6 +1,6 @@
 ### Hola soy Alejandro
 
-![Mis habilidades](https://github.com/agarciacor/agarciacor/blob/main/MisHabilidades.gif?raw=true)
+<!--![Mis habilidades](https://github.com/agarciacor/agarciacor/blob/main/MisHabilidades.gif?raw=true)-->
 
 <div>
 </div>
@@ -10,11 +10,11 @@
 ```js
 
 const alejandro = {
-  age: 21,
+  age: 22,
   gender: "Male",
   code: [Python, Java, C#, Javascript, HTML, CSS, Kotlin],
   tools: [NodeJs, SQL Server, Unity, Visual Studio, Arduino],
-  games: [Minecraft, Fortnite, GTAV]
+  games: [Minecraft, GTAV]
 }
 
 ```
