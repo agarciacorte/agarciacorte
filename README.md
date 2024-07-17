@@ -56,7 +56,7 @@ const alejandro = {
 
 ## 🤝 Contributing
 
-Las contribuciones son bienvenidas, intenta igualar los estilos y los formatos de codigo para que tu contribución sea aceptada.
+Contributions are welcome, try to match the code styles and formats so your contribution will be accepted.
 
 ## 📈 Stats
 
