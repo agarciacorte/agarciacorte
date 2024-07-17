@@ -59,7 +59,7 @@ Las contribuciones son bienvenidas, intenta igualar los estilos y los formatos d
 
 ## 📈 Stats
 
-| [![Alejandro's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agarciacorte&show_icons=true&hide_border=true&bg_color=00FF0000&theme=dark#gh-dark-mode-only)](https://github.com/agarciacorte/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&bg_color=00FF0000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Alejandro's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agarciacorte&show_icons=true&hide_border=true&bg_color=00FF0000&theme=dark#gh-dark-mode-only)](https://github.com/agarciacorte/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&bg_color=00FF0000&theme=dark#gh-dark-mode-only)](https://github.com/agarciacorte/) |
 | ------------- | ------------- |
 
 <p align="center">
