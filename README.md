@@ -16,7 +16,8 @@ const alejandro = {
   gender: "Male",
   favoriteCode: [Python, Java, C#, Javascript],
   tools: [NodeJs, IntellijIdea, VisualStudio],
-  games: [Minecraft, GTAV, AmongUs]
+  games: [Minecraft, GTAV, AmongUs],
+  email: contacto@agarciacorte.com
 }
 ```
 
