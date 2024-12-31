@@ -5,7 +5,7 @@ Hello, I'm Alejandro Garcia!
 	</a>
 </h1>
 
-![Banner](https://raw.githubusercontent.com/agarciacorte/agarciacor/4945aac202ec991e36f7cc78a9f82977791b8a1d/BannerGithub.svg)
+![Banner](https://raw.githubusercontent.com/agarciacorte/agarciacorte/refs/heads/main/lnBannerAGARCIACORTE.png)
 
 Backend Developer, mainly focused on developing systems with Java, NodeJS, Python, and C#. I'm a self-taught Systems Engineer, freelancer, and entrepreneur. Lover of programming and video games.
 
